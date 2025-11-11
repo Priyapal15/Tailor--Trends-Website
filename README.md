@@ -21,3 +21,13 @@ Tailor Trends is a dynamic and responsive website dedicated to showcasing the la
 
 ## 📁 Project Structure  
 
+Tailor–Trends-Website/
+│
+├─ index.html # Home page
+├─ product.html # Product listing page
+├─ “product details.html” # Individual product details
+├─ cart.html # Shopping cart page
+├─ contact.html # Contact us page
+├─ Account.html # Account/login page
+├─ style.css # Global CSS styles
+└─ README.md # Project overview (this file)
